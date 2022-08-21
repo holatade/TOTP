@@ -1,0 +1,14 @@
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.csproj.AssemblyReference.cache
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.AssemblyInfoInputs.cache
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.AssemblyInfo.cs
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.csproj.CoreCompileInputs.cache
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\bin\Debug\netcoreapp3.1\OTP.exe
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\bin\Debug\netcoreapp3.1\OTP.deps.json
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\bin\Debug\netcoreapp3.1\OTP.runtimeconfig.json
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\bin\Debug\netcoreapp3.1\OTP.runtimeconfig.dev.json
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\bin\Debug\netcoreapp3.1\OTP.dll
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\bin\Debug\netcoreapp3.1\OTP.pdb
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.dll
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.pdb
+C:\Users\hhassan\Desktop\ParkwayProjects\ParkwayOTP\OTP\OTP\obj\Debug\netcoreapp3.1\OTP.genruntimeconfig.cache
